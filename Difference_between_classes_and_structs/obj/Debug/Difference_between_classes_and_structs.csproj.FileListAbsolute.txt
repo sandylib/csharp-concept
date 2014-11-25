@@ -1,0 +1,6 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Difference_between_classes_and_structs\bin\Debug\Difference_between_classes_and_structs.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Difference_between_classes_and_structs\bin\Debug\Difference_between_classes_and_structs.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Difference_between_classes_and_structs\bin\Debug\Difference_between_classes_and_structs.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Difference_between_classes_and_structs\obj\Debug\Difference_between_classes_and_structs.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Difference_between_classes_and_structs\obj\Debug\Difference_between_classes_and_structs.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Difference_between_classes_and_structs\obj\Debug\Difference_between_classes_and_structs.csprojResolveAssemblyReference.cache

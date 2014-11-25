@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Explicit_interfaces_implementation\bin\Debug\Explicit_interfaces_implementation.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Explicit_interfaces_implementation\bin\Debug\Explicit_interfaces_implementation.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Explicit_interfaces_implementation\bin\Debug\Explicit_interfaces_implementation.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Explicit_interfaces_implementation\obj\Debug\Explicit_interfaces_implementation.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Explicit_interfaces_implementation\obj\Debug\Explicit_interfaces_implementation.pdb

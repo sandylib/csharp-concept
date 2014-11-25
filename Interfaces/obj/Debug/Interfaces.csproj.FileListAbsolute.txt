@@ -1,0 +1,6 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Interfaces\obj\Debug\Interfaces.pdb

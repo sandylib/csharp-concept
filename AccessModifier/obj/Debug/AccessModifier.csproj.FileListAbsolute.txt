@@ -1,0 +1,6 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\AccessModifier\bin\Debug\AccessModifier.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\AccessModifier\bin\Debug\AccessModifier.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\AccessModifier\bin\Debug\AccessModifier.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\AccessModifier\obj\Debug\AccessModifier.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\AccessModifier\obj\Debug\AccessModifier.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\AccessModifier\obj\Debug\AccessModifier.pdb

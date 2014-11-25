@@ -1,0 +1,6 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Delegate_In_using\bin\Debug\Delegate_In_using.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Delegate_In_using\bin\Debug\Delegate_In_using.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Delegate_In_using\bin\Debug\Delegate_In_using.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Delegate_In_using\obj\Debug\Delegate_In_using.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Delegate_In_using\obj\Debug\Delegate_In_using.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Delegate_In_using\obj\Debug\Delegate_In_using.pdb

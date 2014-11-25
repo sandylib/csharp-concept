@@ -1,0 +1,6 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Structs\bin\Debug\Structs.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Structs\bin\Debug\Structs.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Structs\bin\Debug\Structs.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Structs\obj\Debug\Structs.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Structs\obj\Debug\Structs.pdb

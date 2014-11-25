@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Abstract\bin\Debug\Abstract.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Abstract\bin\Debug\Abstract.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Abstract\obj\Debug\Abstract.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\IntroCSharp\Abstract\obj\Debug\Abstract.pdb
